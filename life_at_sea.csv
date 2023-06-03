@@ -1,0 +1,1098 @@
+Date,Day,Port,Country,Arrive,Depart
+2023-11-01,Wed,Istanbul,Turkey,,16.0
+2023-11-02,Thu,Sea,Sea,,
+2023-11-03,Fri,Sea,Sea,,
+2023-11-04,Sat,Sea,Sea,,
+2023-11-05,Sun,Barcelona,Spain,12.0,20.0
+2023-11-06,Mon,Sea,Sea,,
+2023-11-07,Tues,Sea,Sea,,
+2023-11-08,Wed,Sea,Sea,,
+2023-11-09,Thu,Sea,Sea,,
+2023-11-10,Fri,Sea,Sea,,
+2023-11-11,Sat,Sea,Sea,,
+2023-11-12,Sun,Sea,Sea,,
+2023-11-13,Mon,Sea,Sea,,
+2023-11-14,Tues,Sea,Sea,,
+2023-11-15,Wed,Sea,Sea,,
+2023-11-16,Thu,Miami,USA,18.0,
+2023-11-17,Fri,Miami,USA,,16.0
+2023-11-18,Sat,Sea,Sea,,
+2023-11-19,Sun,Sea,Sea,,
+2023-11-20,Mon,San Juan,Puerto Rico,18.0,
+2023-11-21,Tues,San Juan,Puerto Rico,,17.0
+2023-11-22,Wed,Sea,Sea,,
+2023-11-23,Thu,Sea,Sea,,
+2023-11-24,Fri,Port of Spain,Trinidad & Tobago,8.0,17.0
+2023-11-25,Sat,Sea,Sea,,
+2023-11-26,Sun,Goergetown,Guyana,8.0,17.0
+2023-11-27,Mon,Paramaribo,Suriname,8.0,18.0
+2023-11-28,Tues,Sea,Sea,,
+2023-11-29,Wed,Sea,Sea,,
+2023-11-30,Thu,Macapa,Brazil,8.0,18.0
+2023-12-01,Fri,Sea,Sea,,
+2023-12-02,Sat,Sea,Sea,,
+2023-12-03,Sun,Parantins,Brazil,8.0,17.0
+2023-12-04,Mon,Sea,Sea,,
+2023-12-05,Tues,Manaus,Brazil,8.0,17.0
+2023-12-06,Wed,Sea,Sea,,
+2023-12-07,Thu,Sea,Sea,,
+2023-12-08,Fri,Sea,Sea,,
+2023-12-09,Sat,Belem,Brazil,8.0,18.0
+2023-12-10,Sun,Sea,Sea,,
+2023-12-11,Mon,Sao Louis,Brazil,8.0,
+2023-12-12,Tue,Sao Louis,Brazil,,18.0
+2023-12-13,Wed,Sea,Sea,,
+2023-12-14,Thu,Fortaleza,Brazil,8.0,17.0
+2023-12-15,Fri,Sea,Sea,,
+2023-12-16,Sat,Natal,Brazil,8.0,17.0
+2023-12-17,Sun,Recife,Brazil,8.0,17.0
+2023-12-18,Mon,Maceio,Brazil,8.0,17.0
+2023-12-19,Tue,Sea,Sea,,
+2023-12-20,Wed,Salvador,Brazil,8.0,18.0
+2023-12-21,Thu,Sea,Sea,,
+2023-12-22,Fri,Sea,Sea,,
+2023-12-23,Sat,Rio de Janeiro,Brazil,8.0,
+2023-12-24,Sun,Rio de Janeiro,Brazil,,
+2023-12-25,Mon,Rio de Janeiro,Brazil,,16.0
+2023-12-26,Tue,Santos (Sao Paulo),Brazil,9.0,18.0
+2023-12-27,Wed,Sea,Sea,,
+2023-12-28,Thu,Florianopolis,Brazil,8.0,18.0
+2023-12-29,Fri,Sea,Sea,,
+2023-12-30,Sat,Sea,Sea,,
+2023-12-31,Sun,Montevideo,Uruguay,8.0,
+2024-01-01,Mon,Montevideo,Uruguay,,20.0
+2024-01-02,Tue,Buenos Aries,Argentina,8.0,
+2024-01-03,Wed,Buenos Aries,Argentina,,20.0
+2024-01-04,Thu,Sea,Sea,,
+2024-01-05,Fri,Bahia Blanca,Argentina,9.0,20.0
+2024-01-06,Sat,Sea,Sea,,
+2024-01-07,Sun,Puerto Madryn,Argentina,8.0,21.0
+2024-01-08,Mon,Sea,Sea,,
+2024-01-09,Tue,Sea,Sea,,
+2024-01-10,Wed,Port Stanley,Falkland Islands,8.0,21.0
+2024-01-11,Thu,Sea,Sea,,
+2024-01-12,Fri,Sea,Sea,,
+2024-01-13,Sat,Deception Island,Antarctica,8.0,20.0
+2024-01-14,Sun,Half Moon Island,Antarctica,8.0,14.0
+2024-01-15,Mon,Sea,Sea,,
+2024-01-16,Tue,Ushuaia,Argentina,8.0,21.0
+2024-01-17,Wed,Sea,Sea,,
+2024-01-18,Thu,Punta Arenas,Chile,8.0,
+2024-01-19,Fri,Punta Arenas,Chile,,16.0
+2024-01-20,Sat,Sea,Sea,,
+2024-01-21,Sun,Sea,Sea,,
+2024-01-22,Mon,Sea,Sea,,
+2024-01-23,Tue,Valparaiso,Chile,14.0,
+2024-01-24,Wed,Valparaiso,Chile,,18.0
+2024-01-25,Thu,Sea,Sea,,
+2024-01-26,Fri,Sea,Sea,,
+2024-01-27,Sat,Puerto de Arica,Chile,11.0,
+2024-01-28,Sun,Puerto de Arica,Chile,,16.0
+2024-01-29,Mon,Sea,Sea,,
+2024-01-30,Tue,Callao,Peru,8.0,
+2024-01-31,Wed,Callao,Peru,,18.0
+2024-02-01,Thu,Sea,Sea,,
+2024-02-02,Fri,Sea,Sea,,
+2024-02-03,Sat,Balao,Ecuador,8.0,18.0
+2024-02-04,Sun,Manta,Ecuador,8.0,18.0
+2024-02-05,Mon,Sea,Sea,,
+2024-02-06,Tue,Sea,Sea,,
+2024-02-07,Wed,Panama Canal,Panama,8.0,11.0
+2024-02-08,Thu,Sea,Sea,,
+2024-02-09,Fri,Barranquilla,Colombia,8.0,
+2024-02-10,Sat,Barranquilla,Colombia,,
+2024-02-11,Sun,Barranquilla,Colombia,,
+2024-02-12,Mon,Barranquilla,Colombia,,
+2024-02-13,Tue,Barranquilla,Colombia,,18.0
+2024-02-14,Wed,sea,Sea,,
+2024-02-15,Thu,Oranjestad,Aruba,8.0,
+2024-02-16,Fri,Oranjestad,Aruba,,18.0
+2024-02-17,Sat,Willemtstad,Curacao,8.0,
+2024-02-18,Sun,Willemtstad,Curacao,,18.0
+2024-02-19,Mon,Kralendijk,Bonaire,8.0,
+2024-02-20,Tue,Kralendijk,Bonaire,,18.0
+2024-02-21,Wed,Sea,Sea,,
+2024-02-22,Thu,St George's,Grenada,8.0,
+2024-02-23,Fri,St George's,Grenada,,18.0
+2024-02-24,Sat,Arnos Vale,St Vincent ,8.0,
+2024-02-25,Sun,Arnos Vale,St Vincent ,,18.0
+2024-02-26,Mon,Bridgetown,Barbados,8.0,
+2024-02-27,Tue,Bridgetown,Barbados,,18.0
+2024-02-28,Wed,Castries,St Lucia,8.0,
+2024-02-29,Thu,Castries,St Lucia,,18.0
+2024-03-01,Fri,Fort-De-France,Martinique,8.0,18.0
+2024-03-02,Sat,Roseau,Dominica,8.0,
+2024-03-03,Sun,Roseau,Dominica,,18.0
+2024-03-04,Mon,St Johns,Antigua,8.0,
+2024-03-05,Tue,St Johns,Antigua,,18.0
+2024-03-06,Wed,Basseterre,Saint Kitts,8.0,
+2024-03-07,Thu,Basseterre,Saint Kitts,,18.0
+2024-03-08,Fri,Philipsburg,St Maartin,8.0,
+2024-03-09,Sat,Philipsburg,St Maartin,,18.0
+2024-03-10,Sun,Tortola,UVA,8.0,18.0
+2024-03-11,Mon,St Thomas,UVA,8.0,
+2024-03-12,Tues,St Thomas,UVA,,18.0
+2024-03-13,Wed,Esperanza,Puerto Rico,4.0,
+2024-03-14,Thu,Esperanza,Puerto Rico,,23.0
+2024-03-15,Fri,sea,Sea,,
+2024-03-16,Sat,Santo Domingo,Dominican Republic,8.0,
+2024-03-17,Sun,Santo Domingo,Dominican Republic,,18.0
+2024-03-18,Mon,sea,Sea,,
+2024-03-19,Tues,Puerto Plata ,Dominican Republic,8.0,18.0
+2024-03-20,Wed,Matthew Town,West Indies,9.0,18.0
+2024-03-21,Thu,sea,Sea,,
+2024-03-22,Fri,Nassau,Bahamas,8.0,
+2024-03-23,Sat,Nassau,Bahamas,,
+2024-03-24,Sun,Nassau,Bahamas,,18.0
+2024-03-25,Mon,sea,Sea,,
+2024-03-26,Tues,sea,Sea,,
+2024-03-27,Wed,Ocho Rios,Jamaica,8.0,
+2024-03-28,Thu,Ocho Rios,Jamaica,,18.0
+2024-03-29,Fri,Montego Bay,Jamaica,8.0,
+2024-03-30,Sat,Montego Bay,Jamaica,,18.0
+2024-03-31,Sun,sea,Sea,,
+2024-04-01,Mon,Georgetown,Cayman Islands,8.0,
+2024-04-02,Tues,Georgetown,Cayman Islands,,18.0
+2024-04-03,Wed,sea,Sea,,
+2024-04-04,Thu,Cozumel,Mexico,8.0,
+2024-04-05,Fri,Cozumel,Mexico,,
+2024-04-06,Sat,Cozumel,Mexico,,18.0
+2024-04-07,Sun,Costa Maya,Mexico,8.0,
+2024-04-08,Mon,Costa Maya,Mexico,,
+2024-04-09,Tues,Costa Maya,Mexico,,18.0
+2024-04-10,Wed,Port of Belize,Belize,8.0,
+2024-04-11,Thu,Port of Belize,Belize,,18.0
+2024-04-12,Fri,Roatan,Honduras,8.0,
+2024-04-13,Sat,Roatan,Honduras,,18.0
+2024-04-14,Sun,Sea,Sea,,
+2024-04-15,Mon,Providencia,Colombia,8.0,
+2024-04-16,Tues,Providencia,Colombia,,18.0
+2024-04-17,Wed,San Andres,Colombia,8.0,
+2024-04-18,Thu,San Andres,Colombia,,18.0
+2024-04-19,Fri,Corn Islands,Nicaragua,8.0,
+2024-04-20,Sat,Corn Islands,Nicaragua,,18.0
+2024-04-21,Sun,Limon,Costa Rica,8.0,
+2024-04-22,Mon,Limon,Costa Rica,,
+2024-04-23,Tues,Limon,Costa Rica,,17.0
+2024-04-24,Wed,sea,Sea,,
+2024-04-25,Thu,sea,Panama Canal,,
+2024-04-26,Fri,Panama City,Panama,8.0,
+2024-04-27,Sat,Panama City,Panama,,17.0
+2024-04-28,Sun,sea,Sea,,
+2024-04-29,Mon,Esmeraldes,Costa Rica,8.0,17.0
+2024-04-30,Tues,sea,Sea,,
+2024-05-01,Wed,sea,Sea,,
+2024-05-02,Thu,Puerto Ayaora,Galapogos,8.0,
+2024-05-03,Fri,Puerto Ayaora,Galapogos,,17.0
+2024-05-04,Sat,sea,Sea,,
+2024-05-05,Sun,sea,Sea,,
+2024-05-06,Mon,Puntarenas,Costa Rica,8.0,
+2024-05-07,Tues,Puntarenas,Costa Rica,,16.0
+2024-05-08,Wed,San Juan Del Sur,Nicaragua,8.0,22.0
+2024-05-09,Thu,Corinto,Nicaragua,8.0,
+2024-05-10,Fri,Corinto,Nicaragua,,18.0
+2024-05-11,Sat,Acajulta,El Salvador,8.0,
+2024-05-12,Sun,Acajulta,El Salvador,,20.0
+2024-05-13,Mon,Port of San Jose,Guatemala,8.0,
+2024-05-14,Tues,Port of San Jose,Guatemala,,18.0
+2024-05-15,Wed,sea,Sea,,
+2024-05-16,Thu,Salina Cruz,Mexico,8.0,
+2024-05-17,Fri,Salina Cruz,Mexico,,18.0
+2024-05-18,Sat,sea,Sea,,
+2024-05-19,Sun,Acapulco,Mexico,8.0,
+2024-05-20,Mon,Acapulco,Mexico,,
+2024-05-21,Tues,Acapulco,Mexico,,18.0
+2024-05-22,Wed,sea,Sea,,
+2024-05-23,Thu,Manzanillo,Mexico,8.0,
+2024-05-24,Fri,Manzanillo,Mexico,,18.0
+2024-05-25,Sat,Puerto Vallarta,Mexico,8.0,
+2024-05-26,Sun,Puerto Vallarta,Mexico,,
+2024-05-27,Mon,Puerto Vallarta,Mexico,,18.0
+2024-05-28,Tues,Mazatlan,Mexico,8.0,
+2024-05-29,Wed,Mazatlan,Mexico,,18.0
+2024-05-30,Thurs,Cabo San Lucas,Mexico,8.0,
+2024-05-31,Friday,Cabo San Lucas,Mexico,,
+2024-06-01,Sat,Cabo San Lucas,Mexico,,18.0
+2024-06-02,Sun,sea,Sea,,
+2024-06-03,Mon,sea,Sea,,
+2024-06-04,Tues,San Diego,USA,8.0,
+2024-06-05,Wed,San Diego,USA,,18.0
+2024-06-06,Thu,Los Angeles,USA,8.0,
+2024-06-07,Fri,Los Angeles,USA,,18.0
+2024-06-08,Sat,sea,Sea,,
+2024-06-09,Sun,sea,Sea,,
+2024-06-10,Mon,sea,Sea,,
+2024-06-11,Tues,sea,Sea,,
+2024-06-12,Wed,sea,Sea,,
+2024-06-13,Thu,sea,Sea,,
+2024-06-14,Fri,Nawiliwili,USA,8.0,
+2024-06-15,Sat,Nawiliwili,USA,,18.0
+2024-06-16,Sun,Honolulu,USA,8.0,
+2024-06-17,Mon,Honolulu,USA,,
+2024-06-18,Tues,Honolulu,USA,,18.0
+2024-06-19,Wed,Maui (Lahaina),USA,8.0,
+2024-06-20,Thu,Maui (Lahaina),USA,,18.0
+2024-06-21,Fri,Kailua Kona,USA,8.0,
+2024-06-22,Sat,Kailua Kona,USA,,18.0
+2024-06-23,Sun,Hilo,USA,8.0,
+2024-06-24,Mon,Hilo,USA,,18.0
+2024-06-25,Tues,sea,Sea,,
+2024-06-26,Wed,sea,Sea,,
+2024-06-27,Thu,sea,Sea,,
+2024-06-28,Fri,sea,Sea,,
+2024-06-29,Sat,sea,Sea,,
+2024-06-30,Sun,sea,Sea,,
+2024-07-01,Mon,San Francisco,USA,8.0,
+2024-07-02,Tues,San Francisco,USA,,
+2024-07-03,Wed,San Francisco,USA,,20.0
+2024-07-04,Thu,sea,Sea,,
+2024-07-05,Fri,sea,Sea,,
+2024-07-06,Sat,Seattle,USA,8.0,
+2024-07-07,Sun,Seattle,USA,,20.0
+2024-07-08,Mon,Vancouver,Canada,8.0,
+2024-07-09,Tues,Vancouver,Canada,,20.0
+2024-07-10,Wed,Victoria,Canada,8.0,
+2024-07-11,Thu,Victoria,Canada,,20.0
+2024-07-12,Fri,sea,Sea,,
+2024-07-13,Sat,Prince Rupert,"USA, Alaska",9.0,20.0
+2024-07-14,Sun,Ketchikan,"USA, Alaska",8.0,
+2024-07-15,Mon,Ketchikan,"USA, Alaska",,20.0
+2024-07-16,Tues,sea,Sea,,
+2024-07-17,Wed,Sitka,"USA, Alaska",8.0,
+2024-07-18,Thu,Sitka,"USA, Alaska",,20.0
+2024-07-19,Fri,sea,Sea,,
+2024-07-20,Sat,Juneau,"USA, Alaska",8.0,
+2024-07-21,Sun,Juneau,"USA, Alaska",,
+2024-07-22,Mon,Juneau,"USA, Alaska",,20.0
+2024-07-23,Tues,Skagway,"USA, Alaska",8.0,
+2024-07-24,Wed,Skagway,"USA, Alaska",,20.0
+2024-07-25,Thu,Haines,"USA, Alaska",8.0,20.0
+2024-07-26,Fri,sea,Sea,,
+2024-07-27,Sat,sea,Sea,,
+2024-07-28,Sun,Seward,"USA, Alaska",8.0,
+2024-07-29,Mon,Seward,"USA, Alaska",,20.0
+2024-07-30,Tues,sea,Sea,,
+2024-07-31,Wed,Anchorage,"USA, Alaska",8.0,
+2024-08-01,Thu,Anchorage,"USA, Alaska",,20.0
+2024-08-02,Fri,sea,Sea,,
+2024-08-03,Sat,Kodiak Island,"USA, Alaska",8.0,
+2024-08-04,Sun,Kodiak Island,"USA, Alaska",,20.0
+2024-08-05,Mon,sea,Sea,,
+2024-08-06,Tues,sea,Sea,,
+2024-08-07,Wed,sea,Sea,,
+2024-08-08,Thu,Adak,"USA, Alaska",8.0,18.0
+2024-08-09,Fri,sea,Sea,,
+2024-08-10,Sat,sea,Sea,,
+2024-08-11,Sun,sea,Sea,,
+2024-08-12,Mon,sea,Sea,,
+2024-08-13,Tues,Wakkanai,Japan,9.0,
+2024-08-14,Wed,Wakkanai,Japan,,18.0
+2024-08-15,Thu,Sapporo,Japan,8.0,
+2024-08-16,Fri,Sapporo,Japan,,
+2024-08-17,Sat,Sapporo,Japan,,18.0
+2024-08-18,Sun,sea,Sea,,
+2024-08-19,Mon,Hachinohe,Japan,8.0,
+2024-08-20,Tues,Hachinohe,Japan,,18.0
+2024-08-21,Wed,sea,Sea,,
+2024-08-22,Thu,Sendai,Japan,8.0,
+2024-08-23,Fri,Sendai,Japan,,18.0
+2024-08-24,Sat,sea,Sea,,
+2024-08-25,Sun,Tokyo,Japan,8.0,
+2024-08-26,Mon,Tokyo,Japan,,
+2024-08-27,Tues,Tokyo,Japan,,
+2024-08-28,Wed,Tokyo,Japan,,
+2024-08-29,Thu,Tokyo,Japan,,18.0
+2024-08-30,Fri,Hamamatsu,Japan,8.0,
+2024-08-31,Sat,Hamamatsu,Japan,,18.0
+2024-09-01,Sun,sea,Sea,,
+2024-09-02,Mon,Kobe (Osaka),Japan,8.0,
+2024-09-03,Tues,Kobe (Osaka),Japan,,
+2024-09-04,Wed,Kobe (Osaka),Japan,,18.0
+2024-09-05,Thu,Kochi,Japan,8.0,
+2024-09-06,Fri,Kochi,Japan,,18.0
+2024-09-07,Sat,Miyazaki,Japan,8.0,
+2024-09-08,Sun,Miyazaki,Japan,,18.0
+2024-09-09,Mon,Minamitane,Japan,8.0,
+2024-09-10,Tues,Minamitane,Japan,,18.0
+2024-09-11,Wed,Amami,Japan,8.0,
+2024-09-12,Thurs,Amami,Japan,,18.0
+2024-09-13,Friday,Naha,Japan,8.0,
+2024-09-14,Sat,Naha,Japan,,18.0
+2024-09-15,Sun,Sea,Sea,,
+2024-09-16,Mon,Kaohsiungsing City,Taiwan,8.0,
+2024-09-17,Tues,Kaohsiungsing City,Taiwan,,17.0
+2024-09-18,Wed,Taipei (Keelung),Taiwan,10.0,
+2024-09-19,Thu,Taipei (Keelung),Taiwan,,
+2024-09-20,Fri,Taipei (Keelung),Taiwan,,
+2024-09-21,Sat,Taipei (Keelung),Taiwan,,17.0
+2024-09-22,Sun,Sea,Sea,,
+2024-09-23,Mon,Thaizhou,China,8.0,
+2024-09-24,Tues,Thaizhou,China,,17.0
+2024-09-25,Wed,Sea,Sea,,
+2024-09-26,Thu,Je Ju Do Island,South Korea,8.0,
+2024-09-27,Fri,Je Ju Do Island,South Korea,,17.0
+2024-09-28,Sat,Busan,South Korea,9.0,
+2024-09-29,Sun,Busan,South Korea,,
+2024-09-30,Mon,Busan,South Korea,,17.0
+2024-10-01,Tues,Sea,Sea,,
+2024-10-02,Wed,Incheon (Seoul),South Korea,8.0,
+2024-10-03,Thu,Incheon (Seoul),South Korea,,
+2024-10-04,Fri,Incheon (Seoul),South Korea,,
+2024-10-05,Sat,Incheon (Seoul),South Korea,,17.0
+2024-10-06,Sun,Sea,Sea,,
+2024-10-07,Mon,Dalian,China,8.0,
+2024-10-08,Tues,Dalian,China,,17.0
+2024-10-09,Wed,Yingkou,China,8.0,
+2024-10-10,Thu,Yingkou,China,,17.0
+2024-10-11,Fri,Tianjin (Beijing),China,9.0,
+2024-10-12,Sat,Tianjin (Beijing),China,,
+2024-10-13,Sun,Tianjin (Beijing),China,,
+2024-10-14,Mon,Tianjin (Beijing),China,,
+2024-10-15,Tues,Tianjin (Beijing),China,,
+2024-10-16,Wed,Tianjin (Beijing),China,,17.0
+2024-10-17,Thu,Sea,Sea,,
+2024-10-18,Fri,Yantai,China,8.0,
+2024-10-19,Sat,Yantai,China,,17.0
+2024-10-20,Sun,Sea,Sea,,
+2024-10-21,Mon,Sea,Sea,,
+2024-10-22,Tues,Zhenjiang,China,13.0,
+2024-10-23,Wed,Zhenjiang,China,,17.0
+2024-10-24,Thu,Sea,Sea,,
+2024-10-25,Fri,Wu Hu,China,7.0,
+2024-10-26,Sat,Wu Hu,China,,17.0
+2024-10-27,Sun,Sea,Sea,,
+2024-10-28,Mon,Sea,Sea,,
+2024-10-29,Tue,Shanghai,China,8.0,
+2024-10-30,Wed,Shanghai,China,,
+2024-10-31,Thu,Shanghai,China,,
+2024-11-01,Fri,Shanghai,China,,
+2024-11-02,Sat,Shanghai,China,,
+2024-11-03,Sun,Shanghai,China,,
+2024-11-04,Mon,Shanghai,China,,17.0
+2024-11-05,Tues,Sea,Sea,,
+2024-11-06,Wed,sea,Sea,,
+2024-11-07,Thu,Babuyan Islands,Philippines,8.0,
+2024-11-08,Fri,Babuyan Islands,Philippines,,17.0
+2024-11-09,Sat,sea,Sea,,
+2024-11-10,Sun,Virac (Catanduanes Islands),Philippines,8.0,
+2024-11-11,Mon,Virac (Catanduanes Islands),Philippines,,17.0
+2024-11-12,Tues,sea,Sea,,
+2024-11-13,Wed,Cebu City,Philippines,8.0,
+2024-11-14,Thu,Cebu City,Philippines,,
+2024-11-15,Fri,Cebu City,Philippines,,17.0
+2024-11-16,Sat,Apo Island,Philippines,8.0,17.0
+2024-11-17,Sun,Tagbilaran,Philippines,8.0,
+2024-11-18,Mon,Tagbilaran,Philippines,,17.0
+2024-11-19,Tues,Siargao Island,Philippines,11.0,
+2024-11-20,Wed,Siargao Island,Philippines,,17.0
+2024-11-21,Thu,sea,Sea,,
+2024-11-22,Fri,Davao,Philippines,8.0,
+2024-11-23,Sat,Davao,Philippines,,
+2024-11-24,Sun,Davao,Philippines,,17.0
+2024-11-25,Mon,sea,Sea,,
+2024-11-26,Tues,Koror,Palau,11.0,
+2024-11-27,Wed,Koror,Palau,,17.0
+2024-11-28,Thu,sea,Sea,,
+2024-11-29,Fri,sea,Sea,,
+2024-11-30,Sat,Apra Harbor,Guam,8.0,
+2024-12-01,Sun,Apra Harbor,Guam,,17.0
+2024-12-02,Mon,Saipan,Northern Mariana Islands,8.0,
+2024-12-03,Tues,Saipan,Northern Mariana Islands,,17.0
+2024-12-04,Wed,Sinapalu,Northern Mariana Islands,8.0,
+2024-12-05,Thu,Sinapalu,Northern Mariana Islands,,18.0
+2024-12-06,Fri,sea,Sea,,
+2024-12-07,Sat,Colonia,Micronesia,8.0,
+2024-12-08,Sun,Colonia,Micronesia,,18.0
+2024-12-09,Mon,sea,Sea,,
+2024-12-10,Tues,sea,Sea,,
+2024-12-11,Wed,Helen Reef,Palau,8.0,
+2024-12-12,Thu,Helen Reef,Palau,,20.0
+2024-12-13,Fri,sea,Sea,,
+2024-12-14,Sat,Sorong,Indonesia,8.0,
+2024-12-15,Sun,Sorong,Indonesia,,18.0
+2024-12-16,Mon,sea,Sea,,
+2024-12-17,Tues,Fakfak,Indonesia,8.0,
+2024-12-18,Wed,Fakfak,Indonesia,,18.0
+2024-12-19,Thu,sea,Sea,,
+2024-12-20,Fri,Aru Islands,Indonesia,8.0,
+2024-12-21,Sat,Aru Islands,Indonesia,,18.0
+2024-12-22,Sun,sea,Sea,,
+2024-12-23,Mon,Thursday Island,Australia,8.0,
+2024-12-24,Tues,Thursday Island,Australia,,18.0
+2024-12-25,Wed,sea,Sea,,
+2024-12-26,Thurs,Port Moresbury,Papau New Guinea,8.0,
+2024-12-27,Friday,Port Moresbury,Papau New Guinea,,18.0
+2024-12-28,Sat,sea,Sea,,
+2024-12-29,Sun,Wesleyan Island,Papau New Guinea,8.0,
+2024-12-30,Mon,Wesleyan Island,Papau New Guinea,,18.0
+2024-12-31,Tues,sea,Sea,,
+2025-01-01,Wed,Honiara,Solomon Islands,8.0,
+2025-01-02,Thu,Honiara,Solomon Islands,,18.0
+2025-01-03,Fri,sea,Sea,,
+2025-01-04,Sat,Noli,Santa Cruise Islands,8.0,
+2025-01-05,Sun,Noli,Santa Cruise Islands,,18.0
+2025-01-06,Mon,sea,Sea,,
+2025-01-07,Tues,Port Olry,Vanuatu,8.0,
+2025-01-08,Wed,Port Olry,Vanuatu,,18.0
+2025-01-09,Thu,sea,Sea,,
+2025-01-10,Fri,Port Vila,Vanuatu,8.0,
+2025-01-11,Sat,Port Vila,Vanuatu,,18.0
+2025-01-12,Sun,Lenakei,Vanuatu,8.0,
+2025-01-13,Mon,Lenakei,Vanuatu,,18.0
+2025-01-14,Tues,sea,Sea,,
+2025-01-15,Wed,sea,Sea,,
+2025-01-16,Thu,Port Denarau,Fiji,8.0,
+2025-01-17,Fri,Port Denarau,Fiji,,18.0
+2025-01-18,Sat,Suva,Fiji,8.0,
+2025-01-19,Sun,Suva,Fiji,,18.0
+2025-01-20,Mon,Lekutu,Fiji,8.0,
+2025-01-21,Tues,Lekutu,Fiji,,18.0
+2025-01-22,Wed,sea,Sea,,
+2025-01-23,Thu,Ono,Wallis and Futuna,8.0,
+2025-01-24,Fri,Ono,Wallis and Futuna,,18.0
+2025-01-25,Sat,Matu Utu,Wallis and Futuna,8.0,
+2025-01-26,Sun,Matu Utu,Wallis and Futuna,,18.0
+2025-01-27,Mon,sea,Sea,,
+2025-01-28,Tues,Apia,Samoa,8.0,
+2025-01-29,Wed,Apia,Samoa,,18.0
+2025-01-30,Thu,Pago Pago,American Samoa,8.0,
+2025-01-31,Fri,Pago Pago,American Samoa,,18.0
+2025-02-01,Sat,Luma Manu'a,American Samoa,8.0,
+2025-02-02,Sun,Luma Manu'a,American Samoa,,18.0
+2025-02-03,Mon,sea,Sea,,
+2025-02-04,Tues,sea,Sea,,
+2025-02-05,Wed,sea,Sea,,
+2025-02-06,Thu,Bora Bora,French Polynesia,8.0,
+2025-02-07,Fri,Bora Bora,French Polynesia,,
+2025-02-08,Sat,Bora Bora,French Polynesia,,18.0
+2025-02-09,Sun,Tahaa,French Polynesia,8.0,18.0
+2025-02-10,Mon,Raiatea,French Polynesia,8.0,18.0
+2025-02-11,Tues,Huahine,French Polynesia,8.0,18.0
+2025-02-12,Wed,Tetiaroa,French Polynesia,8.0,18.0
+2025-02-13,Thu,Papeete,French Polynesia,8.0,
+2025-02-14,Fri,Papeete,French Polynesia,,18.0
+2025-02-15,Sat,Moorea,French Polynesia,8.0,
+2025-02-16,Sun,Moorea,French Polynesia,,18.0
+2025-02-17,Mon,sea,Sea,,
+2025-02-18,Tues,Rangiroa,French Polynesia,8.0,
+2025-02-19,Wed,Rangiroa,French Polynesia,,18.0
+2025-02-20,Thu,Niau,French Polynesia,8.0,
+2025-02-21,Fri,Niau,French Polynesia,,18.0
+2025-02-22,Sat,Anaa,French Polynesia,8.0,
+2025-02-23,Sun,Anaa,French Polynesia,,18.0
+2025-02-24,Mon,sea,Sea,,
+2025-02-25,Tues,Rurutu,French Polynesia,8.0,
+2025-02-26,Wed,Rurutu,French Polynesia,,18.0
+2025-02-27,Thu,sea,Sea,,
+2025-02-28,Fri,sea,Sea,,
+2025-03-01,Sat,Atiu,Cook Islands,8.0,18.0
+2025-03-02,Sun,Rarotonga,Cook Islands,8.0,
+2025-03-03,Mon,Rarotonga,Cook Islands,,18.0
+2025-03-04,Tues,Amuri,Cook Islands,8.0,18.0
+2025-03-05,Wed,sea,Sea,,
+2025-03-06,Thu,Patuoko,Niue,9.0,18.0
+2025-03-07,Fri,sea,Sea,,
+2025-03-08,Sat,Neiafu,Tonga,8.0,
+2025-03-09,Sun,Neiafu,Tonga,,18.0
+2025-03-10,Mon,Nuku Alofa,Tonga,8.0,
+2025-03-11,Tues,Nuku Alofa,Tonga,,18.0
+2025-03-12,Wed,sea,Sea,,
+2025-03-13,Thu,sea,Sea,,
+2025-03-14,Fri,sea,Sea,,
+2025-03-15,Sat,Noumea,New Caledonia,8.0,
+2025-03-16,Sun,Noumea,New Caledonia,,
+2025-03-17,Mon,Noumea,New Caledonia,,18.0
+2025-03-18,Tues,sea,Sea,,
+2025-03-19,Wed,sea,Sea,,
+2025-03-20,Thu,sea,Sea,,
+2025-03-21,Fri,Cairns,Austrailia,10.0,
+2025-03-22,Sat,Cairns,Austrailia,,
+2025-03-23,Sun,Cairns,Austrailia,,
+2025-03-24,Mon,Cairns,Austrailia,,18.0
+2025-03-25,Tues,Townsville,Australia,8.0,
+2025-03-26,Wed,Townsville,Australia,,18.0
+2025-03-27,Thu,Sea,Sea,,
+2025-03-28,Fri,Sea,Sea,,
+2025-03-29,Sat,Brisbane,Australia,8.0,
+2025-03-30,Sun,Brisbane,Australia,,
+2025-03-31,Mon,Brisbane,Australia,,18.0
+2025-04-01,Tues,Sea,Sea,,
+2025-04-02,Wed,Sydney,Australia,9.0,
+2025-04-03,Thu,Sydney,Australia,,
+2025-04-04,Fri,Sydney,Australia,,
+2025-04-05,Sat,Sydney,Australia,,18.0
+2025-04-06,Sun,Sea,Sea,,
+2025-04-07,Mon,Sea,Sea,,
+2025-04-08,Tues,Sea,Sea,,
+2025-04-09,Wed,Auckland ,New Zealand,11.0,
+2025-04-10,Thurs,Auckland ,New Zealand,,
+2025-04-11,Friday,Auckland ,New Zealand,,15.0
+2025-04-12,Sat,Sea,Sea,,
+2025-04-13,Sun,Wellington,New Zealand,10.0,
+2025-04-14,Mon,Wellington,New Zealand,,
+2025-04-15,Tues,Wellington,New Zealand,,18.0
+2025-04-16,Wed,Christchurch,New Zealand,8.0,
+2025-04-17,Thu,Christchurch,New Zealand,,
+2025-04-18,Fri,Christchurch,New Zealand,,15.0
+2025-04-19,Sat,Dunedin,New Zealand,8.0,
+2025-04-20,Sun,Dunedin,New Zealand,,17.0
+2025-04-21,Mon,Bluff,New Zealand,8.0,
+2025-04-22,Tues,Bluff,New Zealand,,17.0
+2025-04-23,Wed,Sea,Sea,,
+2025-04-24,Thu,Milford Sound,New Zealand,8.0,
+2025-04-25,Fri,Milford Sound,New Zealand,,17.0
+2025-04-26,Sat,Sea,Sea,,
+2025-04-27,Sun,Sea,Sea,,
+2025-04-28,Mon,Sea,Sea,,
+2025-04-29,Tues,Hobart (Tazmania),Australia,8.0,
+2025-04-30,Wed,Hobart (Tazmania),Australia,,17.0
+2025-05-01,Thu,Sea,Sea,,
+2025-05-02,Fri,Melbourne,Australia,9.0,
+2025-05-03,Sat,Melbourne,Australia,,
+2025-05-04,Sun,Melbourne,Australia,,17.0
+2025-05-05,Mon,Sea,Sea,,
+2025-05-06,Tues,Adelaide,Australia,9.0,
+2025-05-07,Wed,Adelaide,Australia,,17.0
+2025-05-08,Thu,Sea,Sea,,
+2025-05-09,Fri,Sea,Sea,,
+2025-05-10,Sat,Esperance,Australia,10.0,
+2025-05-11,Sun,Esperance,Australia,,17.0
+2025-05-12,Mon,Sea,Sea,,
+2025-05-13,Tues,Perth,Australia,9.0,
+2025-05-14,Wed,Perth,Australia,,
+2025-05-15,Thu,Perth,Australia,,17.0
+2025-05-16,Fri,Geraldton,Australia,10.0,
+2025-05-17,Sat,Geraldton,Australia,,17.0
+2025-05-18,Sun,Sea,Sea,,
+2025-05-19,Mon,Sea,Sea,,
+2025-05-20,Tues,Port Hedland,Australia,9.0,
+2025-05-21,Wed,Port Hedland,Australia,,17.0
+2025-05-22,Thu,Sea,Sea,,
+2025-05-23,Fri,Broome,Australia,8.0,
+2025-05-24,Sat,Broome,Australia,,17.0
+2025-05-25,Sun,Sea,Sea,,
+2025-05-26,Mon,Sea,Sea,,
+2025-05-27,Tues,Darwin,Australia,8.0,
+2025-05-28,Wed,Darwin,Australia,,
+2025-05-29,Thu,Darwin,Australia,,17.0
+2025-05-30,Fri,Pirlagimpi,Tiwi Islands,8.0,17.0
+2025-05-31,Sat,Sea,Sea,,
+2025-06-01,Sun,Dili,Timor Leste,8.0,
+2025-06-02,Mon,Dili,Timor Leste,,17.0
+2025-06-03,Tues,Pante Macassar,Timor Leste,8.0,
+2025-06-04,Wed,Pante Macassar,Timor Leste,,17.0
+2025-06-05,Thu,Sea,Sea,,
+2025-06-06,Fri,Labuan Bajo,Indonesia,8.0,
+2025-06-07,Sat,Labuan Bajo,Indonesia,,17.0
+2025-06-08,Sun,Sea,Sea,,
+2025-06-09,Mon,Bali,Indonesia,8.0,
+2025-06-10,Tues,Bali,Indonesia,,
+2025-06-11,Wed,Bali,Indonesia,,
+2025-06-12,Thu,Bali,Indonesia,,
+2025-06-13,Fri,Bali,Indonesia,,17.0
+2025-06-14,Sat,Sea,Sea,,
+2025-06-15,Sun,Surabaya,Indonesia,8.0,
+2025-06-16,Mon,Surabaya,Indonesia,,17.0
+2025-06-17,Tues,Semerang,Indonesia,9.0,
+2025-06-18,Wed,Semerang,Indonesia,,17.0
+2025-06-19,Thu,Sea,Sea,,
+2025-06-20,Fri,Jakarta,Indonesia,8.0,
+2025-06-21,Sat,Jakarta,Indonesia,,
+2025-06-22,Sun,Jakarta,Indonesia,,17.0
+2025-06-23,Mon,Tanjung Pandan Island,Indonesia,11.0,
+2025-06-24,Tues,Tanjung Pandan Island,Indonesia,,17.0
+2025-06-25,Wed,Mentok,Indonesia,8.0,
+2025-06-26,Thu,Mentok,Indonesia,,17.0
+2025-06-27,Fri,Sea,Sea,,
+2025-06-28,Sat,Pontinak Kota,Indonesia,8.0,
+2025-06-29,Sun,Pontinak Kota,Indonesia,,17.0
+2025-06-30,Mon,Sea,Sea,,
+2025-07-01,Tues,Sea,Sea,,
+2025-07-02,Wed,Bandar Seri Begewan,Brunei,8.0,
+2025-07-03,Thu,Bandar Seri Begewan,Brunei,,18.0
+2025-07-04,Fri,Sea,Sea,,
+2025-07-05,Sat,Puerto Princesa,Philippines,8.0,
+2025-07-06,Sun,Puerto Princesa,Philippines,,18.0
+2025-07-07,Mon,Coron,Philippines,8.0,
+2025-07-08,Tues,Coron,Philippines,,18.0
+2025-07-09,Wed,Boracay,Philippines,8.0,
+2025-07-10,Thu,Boracay,Philippines,,
+2025-07-11,Fri,Boracay,Philippines,,18.0
+2025-07-12,Sat,Sea,Sea,,
+2025-07-13,Sun,Manila,Philippines,8.0,
+2025-07-14,Mon,Manila,Philippines,,
+2025-07-15,Tues,Manila,Philippines,,18.0
+2025-07-16,Wed,Sea,Sea,,
+2025-07-17,Thu,Fuga Island,Philippines,8.0,
+2025-07-18,Fri,Fuga Island,Philippines,,18.0
+2025-07-19,Sat,Sea,Sea,,
+2025-07-20,Sun,Tainan City,Taiwan,8.0,
+2025-07-21,Mon,Tainan City,Taiwan,,
+2025-07-22,Tues,Tainan City,Taiwan,,18.0
+2025-07-23,Wed,Xiamen,China,8.0,
+2025-07-24,Thurs,Xiamen,China,,
+2025-07-25,Friday,Xiamen,China,,18.0
+2025-07-26,Sat,Sea,Sea,,
+2025-07-27,Sun,Taizhou,China,8.0,
+2025-07-28,Mon,Taizhou,China,,18.0
+2025-07-29,Tues,Sea,Sea,,
+2025-07-30,Wed,Ningbo,China,8.0,
+2025-07-31,Thu,Ningbo,China,,18.0
+2025-08-01,Fri,Sea,Sea,,
+2025-08-02,Sat,Qingdao,China,8.0,
+2025-08-03,Sun,Qingdao,China,,18.0
+2025-08-04,Mon,Sea,Sea,,
+2025-08-05,Tues,Wenzhou,China,8.0,
+2025-08-06,Wed,Wenzhou,China,,18.0
+2025-08-07,Thu,Sea,Sea,,
+2025-08-08,Fri,Fuzhou,China,8.0,
+2025-08-09,Sat,Fuzhou,China,,18.0
+2025-08-10,Sun,Sea,Sea,,
+2025-08-11,Mon,Hong Kong,Hong Kong,8.0,
+2025-08-12,Tues,Hong Kong,Hong Kong,,
+2025-08-13,Wed,Hong Kong,Hong Kong,,
+2025-08-14,Thu,Hong Kong,Hong Kong,,18.0
+2025-08-15,Fri,Guangzhou,China,8.0,
+2025-08-16,Sat,Guangzhou,China,,
+2025-08-17,Sun,Guangzhou,China,,18.0
+2025-08-18,Mon,Macao,China,8.0,
+2025-08-19,Tues,Macao,China,,
+2025-08-20,Wed,Macao,China,,18.0
+2025-08-21,Thu,Sea,Sea,,
+2025-08-22,Fri,Zhanjiang,China,8.0,
+2025-08-23,Sat,Zhanjiang,China,,18.0
+2025-08-24,Sun,Haikou,China,8.0,
+2025-08-25,Mon,Haikou,China,,18.0
+2025-08-26,Tues,Sea,Sea,,
+2025-08-27,Wed,Sanya,China,8.0,
+2025-08-28,Thu,Sanya,China,,18.0
+2025-08-29,Fri,Sea,Sea,,
+2025-08-30,Sat,Ha Long,Vietnam,11.0,
+2025-08-31,Sun,Ha Long,Vietnam,,
+2025-09-01,Mon,Ha Long,Vietnam,,18.0
+2025-09-02,Tues,Haiphong (Hanoi),Vietnam,8.0,
+2025-09-03,Wed,Haiphong (Hanoi),Vietnam,,
+2025-09-04,Thu,Haiphong (Hanoi),Vietnam,,
+2025-09-05,Fri,Haiphong (Hanoi),Vietnam,,18.0
+2025-09-06,Sat,Sea,Sea,,
+2025-09-07,Sun,Thanh Hoa,Vietnam,8.0,
+2025-09-08,Mon,Thanh Hoa,Vietnam,,18.0
+2025-09-09,Tues,Vinh,Vietnam,8.0,
+2025-09-10,Wed,Vinh,Vietnam,,17.0
+2025-09-11,Thu,Sea,Sea,,
+2025-09-12,Fri,Da Nang,Vietnam,8.0,
+2025-09-13,Sat,Da Nang,Vietnam,,
+2025-09-14,Sun,Da Nang,Vietnam,,17.0
+2025-09-15,Mon,Sea,Sea,,
+2025-09-16,Tues,Tuy Hoa,Vietnam,8.0,
+2025-09-17,Wed,Tuy Hoa,Vietnam,,17.0
+2025-09-18,Thu,Phan Thiet,Vietnam,9.0,
+2025-09-19,Fri,Phan Thiet,Vietnam,,17.0
+2025-09-20,Sat,Ho Chi Minh City,Vietnam,9.0,
+2025-09-21,Sun,Ho Chi Minh City,Vietnam,,
+2025-09-22,Mon,Ho Chi Minh City,Vietnam,,
+2025-09-23,Tues,Ho Chi Minh City,Vietnam,,17.0
+2025-09-24,Wed,Can Tho,Vietnam,9.0,
+2025-09-25,Thu,Can Tho,Vietnam,,17.0
+2025-09-26,Fri,Sea,Sea,,
+2025-09-27,Sat,Rach Gia,Vietnam,8.0,
+2025-09-28,Sun,Rach Gia,Vietnam,,17.0
+2025-09-29,Mon,Krong Kampot,Cambodia,8.0,
+2025-09-30,Tues,Krong Kampot,Cambodia,,17.0
+2025-10-01,Wed,Preah Sihanouk,Cambodia,8.0,
+2025-10-02,Thu,Preah Sihanouk,Cambodia,,17.0
+2025-10-03,Fri,Koh Rong Sanloem,Cambodia,8.0,
+2025-10-04,Sat,Koh Rong Sanloem,Cambodia,,17.0
+2025-10-05,Sun,Rayong Thailan,Cambodia,8.0,
+2025-10-06,Mon,Rayong Thailan,Cambodia,,17.0
+2025-10-07,Tues,Bangkok,Thailand,8.0,
+2025-10-08,Wed,Bangkok,Thailand,,
+2025-10-09,Thu,Bangkok,Thailand,,
+2025-10-10,Fri,Bangkok,Thailand,,
+2025-10-11,Sat,Bangkok,Thailand,,17.0
+2025-10-12,Sun,Sea,Sea,,
+2025-10-13,Mon,Koh Sumai,Thailand,8.0,
+2025-10-14,Tues,Koh Sumai,Thailand,,
+2025-10-15,Wed,Koh Sumai,Thailand,,18.0
+2025-10-16,Thu,Songkhla,Thailand,8.0,
+2025-10-17,Fri,Songkhla,Thailand,,18.0
+2025-10-18,Sat,Kelantan,Malaysia,8.0,
+2025-10-19,Sun,Kelantan,Malaysia,,18.0
+2025-10-20,Mon,Terengganu,Malaysia,8.0,
+2025-10-21,Tues,Terengganu,Malaysia,,18.0
+2025-10-22,Wed,Pahang,Malaysia,8.0,
+2025-10-23,Thu,Pahang,Malaysia,,18.0
+2025-10-24,Fri,Kuala Rompin,Malaysia,8.0,
+2025-10-25,Sat,Kuala Rompin,Malaysia,,18.0
+2025-10-26,Sun,Singapore,Singapore,8.0,
+2025-10-27,Mon,Singapore,Singapore,,
+2025-10-28,Tues,Singapore,Singapore,,
+2025-10-29,Wed,Singapore,Singapore,,
+2025-10-30,Thu,Singapore,Singapore,,
+2025-10-31,Fri,Singapore,Singapore,,
+2025-11-01,Sat,Singapore,Singapore,,18.0
+2025-11-02,Sun,Sea,Sea,,
+2025-11-03,Mon,Muar,Malaysia,8.0,
+2025-11-04,Tues,Muar,Malaysia,,18.0
+2025-11-05,Wed,Port Klang (Kuala Lumpur),Malaysia,8.0,
+2025-11-06,Thurs,Port Klang (Kuala Lumpur),Malaysia,,
+2025-11-07,Friday,Port Klang (Kuala Lumpur),Malaysia,,
+2025-11-08,Sat,Port Klang (Kuala Lumpur),Malaysia,,18.0
+2025-11-09,Sun,Penang,Malaysia,8.0,
+2025-11-10,Mon,Penang,Malaysia,,18.0
+2025-11-11,Tues,Lankawi,Malaysia,8.0,
+2025-11-12,Wed,Lankawi,Malaysia,,18.0
+2025-11-13,Thu,Phuket,Thailand,8.0,
+2025-11-14,Fri,Phuket,Thailand,,
+2025-11-15,Sat,Phuket,Thailand,,18.0
+2025-11-16,Sun,Sea,Sea,,
+2025-11-17,Mon,Sea,Sea,,
+2025-11-18,Tues,Port Blair,India,8.0,
+2025-11-19,Wed,Port Blair,India,,17.0
+2025-11-20,Thu,Sea,Sea,,
+2025-11-21,Fri,Yangon,Myanmar,8.0,
+2025-11-22,Sat,Yangon,Myanmar,,17.0
+2025-11-23,Sun,Sea,Sea,,
+2025-11-24,Mon,St Maartins Island,Sri Lanka,8.0,
+2025-11-25,Tues,St Maartins Island,Sri Lanka,,17.0
+2025-11-26,Wed,Sea,Sea,,
+2025-11-27,Thu,Kolkata,India,8.0,
+2025-11-28,Fri,Kolkata,India,,17.0
+2025-11-29,Sat,Sea,Sea,,
+2025-11-30,Sun,Chennai,India,8.0,
+2025-12-01,Mon,Chennai,India,,
+2025-12-02,Tues,Chennai,India,,17.0
+2025-12-03,Wed,Karaikal,India,8.0,
+2025-12-04,Thu,Karaikal,India,,17.0
+2025-12-05,Fri,Jaffna,Sri Lanka,8.0,
+2025-12-06,Sat,Jaffna,Sri Lanka,,17.0
+2025-12-07,Sun,Sea,Sea,,
+2025-12-08,Mon,Colombo,Sri Lanka,,
+2025-12-09,Tues,Colombo,Sri Lanka,,
+2025-12-10,Wed,Colombo,Sri Lanka,,17.0
+2025-12-11,Thu,Sea,Sea,,
+2025-12-12,Fri,Kochi,India,8.0,
+2025-12-13,Sat,Kochi,India,,17.0
+2025-12-14,Sun,Sea,Sea,,
+2025-12-15,Mon,Cheriyam Islands,India,8.0,
+2025-12-16,Tues,Cheriyam Islands,India,,
+2025-12-17,Wed,Cheriyam Islands,India,,18.0
+2025-12-18,Thu,Sea,Sea,,
+2025-12-19,Fri,Male,Maldives,8.0,
+2025-12-20,Sat,Male,Maldives,,
+2025-12-21,Sun,Male,Maldives,,18.0
+2025-12-22,Mon,Sea,Sea,,
+2025-12-23,Tues,Nilandhoo,Maldives,8.0,
+2025-12-24,Wed,Nilandhoo,Maldives,,
+2025-12-25,Thu,Nilandhoo,Maldives,,18.0
+2025-12-26,Fri,Addu City,Maldives,8.0,
+2025-12-27,Sat,Addu City,Maldives,,
+2025-12-28,Sun,Addu City,Maldives,,18.0
+2025-12-29,Mon,Sea,Sea,,
+2025-12-30,Tues,Sea,Sea,,
+2025-12-31,Wed,Sea,Sea,,
+2026-01-01,Thu,Seychelles,Seychelles,8.0,
+2026-01-02,Fri,Seychelles,Seychelles,,
+2026-01-03,Sat,Seychelles,Seychelles,,18.0
+2026-01-04,Sun,Sea,Sea,,
+2026-01-05,Mon,Sea,Sea,,
+2026-01-06,Tues,Zanzibar,Tanzania,9.0,
+2026-01-07,Wed,Zanzibar,Tanzania,,18.0
+2026-01-08,Thu,Sea,Sea,,
+2026-01-09,Fri,Ndzouani,Comoros,8.0,
+2026-01-10,Sat,Ndzouani,Comoros,,
+2026-01-11,Sun,Ndzouani,Comoros,,18.0
+2026-01-12,Mon,Mayotte,Mayotte,8.0,
+2026-01-13,Tues,Mayotte,Mayotte,,18.0
+2026-01-14,Wed,Sea,Sea,,
+2026-01-15,Thu,Mahajanga,Madagascar,8.0,
+2026-01-16,Fri,Mahajanga,Madagascar,,18.0
+2026-01-17,Sat,Sea,Sea,,
+2026-01-18,Sun,Nozy Be,Madagascar,8.0,
+2026-01-19,Mon,Nozy Be,Madagascar,,18.0
+2026-01-20,Tues,Sea,Sea,,
+2026-01-21,Wed,Sea,Sea,,
+2026-01-22,Thu,Port Louis,Mauritius,9.0,
+2026-01-23,Fri,Port Louis,Mauritius,,
+2026-01-24,Sat,Port Louis,Mauritius,,18.0
+2026-01-25,Sun,La Possession,Reunion,8.0,
+2026-01-26,Mon,La Possession,Reunion,,18.0
+2026-01-27,Tues,Sea,Sea,,
+2026-01-28,Wed,Sea,Sea,,
+2026-01-29,Thu,Toliara,Madagascar,9.0,
+2026-01-30,Fri,Toliara,Madagascar,,18.0
+2026-01-31,Sat,Sea,Sea,,
+2026-02-01,Sun,Morondava,Madagascar,8.0,
+2026-02-02,Mon,Morondava,Madagascar,,18.0
+2026-02-03,Tues,Sea,Sea,,
+2026-02-04,Wed,Bazaruto,Mozambique,8.0,
+2026-02-05,Thu,Bazaruto,Mozambique,,18.0
+2026-02-06,Fri,Sea,Sea,,
+2026-02-07,Sat,Maputo,Mozambique,8.0,
+2026-02-08,Sun,Maputo,Mozambique,,18.0
+2026-02-09,Mon,Sea,Sea,,
+2026-02-10,Tues,Durban,South Africa,8.0,
+2026-02-11,Wed,Durban,South Africa,,
+2026-02-12,Thu,Durban,South Africa,,18.0
+2026-02-13,Fri,Sea,Sea,,
+2026-02-14,Sat,Port Elizabeth,South Africa,8.0,
+2026-02-15,Sun,Port Elizabeth,South Africa,,18.0
+2026-02-16,Mon,Sea,Sea,,
+2026-02-17,Tues,Cape Town,South Africa,8.0,
+2026-02-18,Wed,Cape Town,South Africa,,
+2026-02-19,Thurs,Cape Town,South Africa,,
+2026-02-20,Friday,Cape Town,South Africa,,
+2026-02-21,Sat,Cape Town,South Africa,,18.0
+2026-02-22,Sun,Sea,Sea,,
+2026-02-23,Mon,Sea,Sea,,
+2026-02-24,Tues,Walvis Bay,Namibia,8.0,
+2026-02-25,Wed,Walvis Bay,Namibia,,
+2026-02-26,Thu,Walvis Bay,Namibia,,18.0
+2026-02-27,Fri,Sea,Sea,,
+2026-02-28,Sat,Sea,Sea,,
+2026-03-01,Sun,Sea,Sea,,
+2026-03-02,Mon,Sea,Sea,,
+2026-03-03,Tues,Jamestown,St Helena,12.0,
+2026-03-04,Wed,Jamestown,St Helena,,
+2026-03-05,Thu,Jamestown,St Helena,,18.0
+2026-03-06,Fri,Sea,Sea,,
+2026-03-07,Sat,Sea,Sea,,
+2026-03-08,Sun,Sea,Sea,,
+2026-03-09,Mon,Sea,Sea,,
+2026-03-10,Tues,Luanda,Angola,8.0,18.0
+2026-03-11,Wed,Pointe Noire,Republic of Congo,8.0,18.0
+2026-03-12,Thu,Sea,Sea,,
+2026-03-13,Fri,Libreville,Gabon,9.0,18.0
+2026-03-14,Sat,Sea,Sea,,
+2026-03-15,Sun,Sao Tome,Sao Tome and Principe,8.0,18.0
+2026-03-16,Mon,Sea,Sea,,
+2026-03-17,Tues,Lome,Toga,8.0,
+2026-03-18,Wed,Lome,Toga,,18.0
+2026-03-19,Thu,Accra,Ghana,8.0,18.0
+2026-03-20,Fri,Sea,Sea,,
+2026-03-21,Sat,Abidjan,Cote d' Ivore,8.0,18.0
+2026-03-22,Sun,Sea,Sea,,
+2026-03-23,Mon,Monrovia,Liberia,9.0,18.0
+2026-03-24,Tues,Sea,Sea,,
+2026-03-25,Wed,Freetown ,Sierra Leone,8.0,18.0
+2026-03-26,Thu,Canakry,Guinea,8.0,18.0
+2026-03-27,Fri,Sea,Sea,,
+2026-03-28,Sat,Dakar,Senegal,8.0,
+2026-03-29,Sun,Dakar,Senegal,,18.0
+2026-03-30,Mon,Sea,Sea,,
+2026-03-31,Tues,Praia,Cape Verde,8.0,
+2026-04-01,Wed,Praia,Cape Verde,,18.0
+2026-04-02,Thu,Boa Vista,Cape Verde,8.0,
+2026-04-03,Fri,Bao Vista,Cape Verde,,18.0
+2026-04-04,Sat,Santa Maria,Cape Verde,8.0,
+2026-04-05,Sun,Santa Maria,Cape Verde,,18.0
+2026-04-06,Mon,Porto Nova,Cape Verde,8.0,
+2026-04-07,Tues,Porto Nova,Cape Verde,,18.0
+2026-04-08,Wed,Sea,Sea,,
+2026-04-09,Thu,Sea,Sea,,
+2026-04-10,Fri,Santa Cruz,Tenerife,9.0,
+2026-04-11,Sat,Santa Cruz,Tenerife,,19.0
+2026-04-12,Sun,Maspalomas,Tenerife,8.0,
+2026-04-13,Mon,Maspalomas,Tenerife,,19.0
+2026-04-14,Tues,Puerto Del Rosario,Tenerife,8.0,
+2026-04-15,Wed,Puerto Del Rosario,Tenerife,,19.0
+2026-04-16,Thu,Puerto Del Carmen,Tenerife,8.0,
+2026-04-17,Fri,Puerto Del Carmen,Tenerife,,19.0
+2026-04-18,Sat,Sea,Sea,,
+2026-04-19,Sun,Funchal,Portugal,8.0,
+2026-04-20,Mon,Funchal,Portugal,,19.0
+2026-04-21,Tues,Sea,Sea,,
+2026-04-22,Wed,Casablanca,Morocco,8.0,
+2026-04-23,Thu,Casablanca,Morocco,,19.0
+2026-04-24,Fri,Sea,Sea,,
+2026-04-25,Sat,Gibraltar,Gibraltar,8.0,
+2026-04-26,Sun,Gibraltar,Gibraltar,,19.0
+2026-04-27,Mon,Sea,Sea,,
+2026-04-28,Tues,Sea,Sea,,
+2026-04-29,Wed,Tunis,Tunisia,8.0,
+2026-04-30,Thu,Tunis,Tunisia,,18.0
+2026-05-01,Fri,Cagliari,Sardegnia,9.0,
+2026-05-02,Sat,Cagliari,Sardegnia,,18.0
+2026-05-03,Sun,Bonifacio,Corsica,8.0,20.0
+2026-05-04,Mon,Bastia,Corsica,8.0,
+2026-05-05,Tues,Bastia,Corsica,,20.0
+2026-05-06,Wed,Florence (Livorno),Italy,8.0,
+2026-05-07,Thu,Florence (Livorno),Italy,,20.0
+2026-05-08,Fri,Genoa,Italy,8.0,
+2026-05-09,Sat,Genoa,Italy,,20.0
+2026-05-10,Sun,Monte Carlo,Monaco,8.0,23.0
+2026-05-11,Mon,Cannes / St Tropez,France,8.0,
+2026-05-12,Tues,Cannes / St Tropez,France,,20.0
+2026-05-13,Wed,Marseille,France,8.0,
+2026-05-14,Thu,Marseille,France,,17.0
+2026-05-15,Fri,Barcelona,Spain,8.0,
+2026-05-16,Sat,Barcelona,Spain,,
+2026-05-17,Sun,Barcelona,Spain,,17.0
+2026-05-18,Mon,Valencia,Spain,8.0,
+2026-05-19,Tues,Valencia,Spain,,19.0
+2026-05-20,Wed,Sea,Sea,,
+2026-05-21,Thu,Sea,Sea,,
+2026-05-22,Fri,Lisbon,Portugal,9.0,
+2026-05-23,Sat,Lisbon,Portugal,,17.0
+2026-05-24,Sun,Porto ,Portugal,8.0,
+2026-05-25,Mon,Porto,Portugal,,20.0
+2026-05-26,Tues,Sea,Sea,,
+2026-05-27,Wed,Sea,Sea,,
+2026-05-28,Thu,Bordeaux,France,8.0,
+2026-05-29,Fri,Bordeaux,France,,20.0
+2026-05-30,Sat,Sea,Sea,,
+2026-05-31,Sun,Sea,Sea,,
+2026-06-01,Mon,Le Havre (Paris),France,8.0,
+2026-06-02,Tues,Le Havre (Paris),France,,
+2026-06-03,Wed,Le Havre (Paris),France,,
+2026-06-04,Thurs,Le Havre (Paris),France,,22.0
+2026-06-05,Friday,Sea,Sea,,
+2026-06-06,Sat,Port of Antwerp,Belgium,8.0,
+2026-06-07,Sun,Port of Antwerp,Belgium,,18.0
+2026-06-08,Mon,Amsterdam,Netherlands,8.0,
+2026-06-09,Tues,Amsterdam,Netherlands,,
+2026-06-10,Wed,Amsterdam,Netherlands,,22.0
+2026-06-11,Thu,Sea,Sea,,
+2026-06-12,Fri,Hamburg,Germany,8.0,
+2026-06-13,Sat,Hamburg,Germany,,20.0
+2026-06-14,Sun,Sea,Sea,,
+2026-06-15,Mon,Tilbury (London),England,9.0,
+2026-06-16,Tues,Tilbury (London),England,,
+2026-06-17,Wed,Tilbury (London),England,,
+2026-06-18,Thu,Tilbury (London),England,,17.0
+2026-06-19,Fri,Sea,Sea,,
+2026-06-20,Sat,Cardiff,Wales,9.0,
+2026-06-21,Sun,Cardiff,Wales,,20.0
+2026-06-22,Mon,Dublin,Ireland,8.0,
+2026-06-23,Tues,Dublin,Ireland,,
+2026-06-24,Wed,Belfast,Northern Ireland,8.0,
+2026-06-25,Thu,Belfast,Northern Ireland,,20.0
+2026-06-26,Fri,Greenock,Scotland,8.0,
+2026-06-27,Sat,Greenock,Scotland,,20.0
+2026-06-28,Sun,Sea,Sea,,
+2026-06-29,Mon,Sea,Sea,,
+2026-06-30,Tues,Aberdeen,Scotland,8.0,
+2026-07-01,Wed,Aberdeen,Scotland,,20.0
+2026-07-02,Thu,Sea,Sea,,
+2026-07-03,Fri,Runavik,Faroe Islands,8.0,20.0
+2026-07-04,Sat,Klaksvik,Faroe Islands,8.0,18.0
+2026-07-05,Sun,Sea,Sea,,
+2026-07-06,Mon,Reykjavik,Iceland,8.0,
+2026-07-07,Tues,Reykjavik,Iceland,,20.0
+2026-07-08,Wed,Sea,Sea,,
+2026-07-09,Thu,Eskifjordhur,Iceland,8.0,
+2026-07-10,Fri,Eskifjordhur,Iceland,,20.0
+2026-07-11,Sat,Sea,Sea,,
+2026-07-12,Sun,Sea,Sea,,
+2026-07-13,Mon,Trondheim,Norway,8.0,
+2026-07-14,Tues,Trondheim,Norway,,20.0
+2026-07-15,Wed,Sea,Sea,,
+2026-07-16,Thu,Alesund,Norway,8.0,
+2026-07-17,Fri,Alesund,Norway,,19.0
+2026-07-18,Sat,Bergen,Norway,8.0,
+2026-07-19,Sun,Bergen,Norway,,19.0
+2026-07-20,Mon,Stavanger,Norway,8.0,22.0
+2026-07-21,Tues,Sea,Sea,,
+2026-07-22,Wed,Oslo,Norway,8.0,
+2026-07-23,Thu,Oslo,Norway,,18.0
+2026-07-24,Fri,Gothenburg,Sweden,8.0,
+2026-07-25,Sat,Gothenburg,Sweden,,20.0
+2026-07-26,Sun,Copenhagen,Denmark,8.0,
+2026-07-27,Mon,Copenhagen,Denmark,,21.0
+2026-07-28,Tues,Sea,Sea,,
+2026-07-29,Wed,Visby,Sweden,8.0,21.0
+2026-07-30,Thu,Stockholm,Sweden,8.0,
+2026-07-31,Fri,Stockholm,Sweden,,19.0
+2026-08-01,Sat,Mariehamn,Aland,8.0,17.0
+2026-08-02,Sun,Helsinki,Finland,8.0,
+2026-08-03,Mon,Helsinki,Finland,,20.0
+2026-08-04,Tues,Tallinn,Estonia,8.0,
+2026-08-05,Wed,Tallinn,Estonia,,21.0
+2026-08-06,Thu,Sea,Sea,,
+2026-08-07,Fri,Riga,Latvia,8.0,
+2026-08-08,Sat,Riga,Latvia,,21.0
+2026-08-09,Sun,Sea,Sea,,
+2026-08-10,Mon,Klaipeda,Lithuania,8.0,
+2026-08-11,Tues,Klaipeda,Lithuania,,18.0
+2026-08-12,Wed,Gdansk,Poland,8.0,
+2026-08-13,Thu,Gdansk,Poland,,16.0
+2026-08-14,Fri,Sea,Sea,,
+2026-08-15,Sat,Sea,Sea,,
+2026-08-16,Sun,Rotterdam,Netherlands,9.0,
+2026-08-17,Mon,Rotterdam,Netherlands,,17.0
+2026-08-18,Tues,Sea,Sea,,
+2026-08-19,Wed,Sea,Sea,,
+2026-08-20,Thu,Bilbao,Spain,9.0,
+2026-08-21,Fri,Bilbao,Spain,,21.0
+2026-08-22,Sat,Sea,Sea,,
+2026-08-23,Sun,Sea,Sea,,
+2026-08-24,Mon,Cadiz,Spain,8.0,
+2026-08-25,Tues,Cadiz,Spain,,
+2026-08-26,Wed,Cadiz,Spain,,18.0
+2026-08-27,Thu,Sea,Sea,,
+2026-08-28,Fri,Ibiza,Spain,9.0,
+2026-08-29,Sat,Ibiza,Spain,,23.0
+2026-08-30,Sun,Palma,Spain,9.0,
+2026-08-31,Mon,Palma,Spain,,18.0
+2026-09-01,Tues,Sea,Sea,,
+2026-09-02,Wed,Sea,Sea,,
+2026-09-03,Thu,Civitavecchia,Italy,8.0,
+2026-09-04,Fri,Civitavecchia,Italy,,
+2026-09-05,Sat,Civitavecchia,Italy,,18.0
+2026-09-06,Sun,Naples,Italy,8.0,
+2026-09-07,Mon,Naples,Italy,,18.0
+2026-09-08,Tues,Palermo,Italy,8.0,
+2026-09-09,Wed,Palermo,Italy,,18.0
+2026-09-10,Thu,Sea,Sea,,
+2026-09-11,Fri,Valetta,Malta,8.0,
+2026-09-12,Sat,Valetta,Malta,,18.0
+2026-09-13,Sun,Sea,Sea,,
+2026-09-14,Mon,Bari,Italy,8.0,
+2026-09-15,Tues,Bari,Italy,,18.0
+2026-09-16,Wed,Sea,Sea,,
+2026-09-17,Thurs,Venice,Italy,8.0,
+2026-09-18,Friday,Venice,Italy,,18.0
+2026-09-19,Sat,Sea,Sea,,
+2026-09-20,Sun,Dubrovnik,Croatia,8.0,
+2026-09-21,Mon,Dubrovnik,Croatia,,
+2026-09-22,Tues,Dubrovnik,Croatia,,18.0
+2026-09-23,Wed,Neum,Bosnia & Herzegovina,8.0,18.0
+2026-09-24,Thu,Sea,Sea,,
+2026-09-25,Fri,Sarande,Albania,8.0,18.0
+2026-09-26,Sat,Corfu,Greece,8.0,
+2026-09-27,Sun,Corfu,Greece,,18.0
+2026-09-28,Mon,Katakolon,Greece,8.0,
+2026-09-29,Tues,Katakolon,Greece,,18.0
+2026-09-30,Wed,Sea,Sea,,
+2026-10-01,Thu,Piraeus (Athens),Greece,8.0,
+2026-10-02,Fri,Piraeus (Athens),Greece,,
+2026-10-03,Sat,Piraeus (Athens),Greece,,18.0
+2026-10-04,Sun,Heraklion,Greece,8.0,
+2026-10-05,Mon,Heraklion,Greece,,18.0
+2026-10-06,Tues,Sea,Sea,,
+2026-10-07,Wed,Alexandria,Egypt,8.0,
+2026-10-08,Thu,Alexandria,Egypt,,17.0
+2026-10-09,Fri,Port Said,Egypt,8.0,
+2026-10-10,Sat,Port Said,Egypt,,
+2026-10-11,Sun,Port Said,Egypt,,17.0
+2026-10-12,Mon,Tel Aviv,Israel,8.0,
+2026-10-13,Tues,Tel Aviv,Israel,,
+2026-10-14,Wed,Tel Aviv,Israel,,16.0
+2026-10-15,Thu,Limassol,Cyprus,9.0,
+2026-10-16,Fri,Limassol,Cyprus,,18.0
+2026-10-17,Sat,Sea,Sea,,
+2026-10-18,Sun,Rhodes,Greece,8.0,
+2026-10-19,Mon,Rhodes,Greece,,18.0
+2026-10-20,Tues,Santorini,07h16,8.0,
+2026-10-21,Wed,Santorini,Greece,,18.0
+2026-10-22,Thu,Naxos,Greece,8.0,
+2026-10-23,Fri,Naxos,Greece,,18.0
+2026-10-24,Sat,Mykonos,Greece,8.0,
+2026-10-25,Sun,Mykonos,Greece,,23.0
+2026-10-26,Mon,Sea,Sea,,
+2026-10-27,Tues,Bodrum,Turkey,8.0,20.0
+2026-10-28,Wed,Kusadasi,Turkey,8.0,
+2026-10-29,Thu,Kusadasi,Turkey,,
+2026-10-30,Fri,Kusadasi,Turkey,,18.0
+2026-10-31,Sat,Sea,Sea,,
+2026-11-01,Sun,Istanbul,Turkey,8.0,
