@@ -8,18 +8,22 @@ def summarize_trip(df):
     last_loc = sea
     left = None
 
+    print('Date,Day,Port,Country,Time,Hours')  # Print the csv header
+
     for _, row in df.iterrows():
         loc = row['Port'], row['Country']
         if not pd.isnull(row['Arrive']):
-            if left:
-                print(f'{left},{last_loc},{row["Date"]},{row["Arrive"] - left}')
+            if left is not None:
+                duration = datetime.datetime.combine(row['Date'], datetime.time(hour=int(row['Arrive']))) - datetime.datetime.combine(left[0], datetime.time(hour=int(left[1])))
+                print(f'{left[0]},{row["Day"]},{last_loc[0]},{last_loc[1]},{left[1]},{duration.total_seconds() / 3600}')
             last_loc = loc
-            left = row['Arrive']
+            left = row['Date'], row['Arrive']
         if not pd.isnull(row['Depart']):
-            if left:
-                print(f'{left},{last_loc},{row["Date"]},{row["Depart"] - left}')       
+            if left is not None:
+                duration = datetime.datetime.combine(row['Date'], datetime.time(hour=int(row['Depart']))) - datetime.datetime.combine(left[0], datetime.time(hour=int(left[1])))
+                print(f'{left[0]},{row["Day"]},{last_loc[0]},{last_loc[1]},{left[1]},{duration.total_seconds() / 3600}')       
             last_loc = sea
-            left = row['Depart']
+            left = row['Date'], row['Depart']
 
 def main(input_file):
     # Load the csv file
