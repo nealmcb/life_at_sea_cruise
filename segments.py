@@ -8,52 +8,28 @@ def summarize_trip(df):
     df.sort_values('Date', inplace=True)
     
     summarized_data = []
+    last_depart = None
     ongoing_port = None
+    ongoing_country = None
+    extra_days = 0
 
     for index, row in df.iterrows():
-        if row['Port'] != 'Sea':
-            if ongoing_port is None:
-                # start a new port visit
-                ongoing_port = row.copy()
-            elif ongoing_port['Port'] == row['Port']:
-                # update the ongoing port visit
-                ongoing_port['Depart'] = row['Depart']
-            else:
-                # finalize the ongoing port visit
-                first_day_hours = 24 - ongoing_port['Arrive'] 
-                last_day_hours = ongoing_port['Depart']
-                extra_days = (row['Date'] - ongoing_port['Date']).days - 1
-                hours = first_day_hours + last_day_hours + extra_days * 24
-                port_row = {'Date': ongoing_port['Date'], 'Day': ongoing_port['Day'], 'Port': ongoing_port['Port'], 
-                            'Country': ongoing_port['Country'], 'Time': ongoing_port['Arrive'], 'Hours': hours}
-                summarized_data.append(port_row)
-                # start a new port visit
-                ongoing_port = row.copy()
-
-        elif row['Port'] == 'Sea' and (ongoing_port is None or ongoing_port['Port'] != 'Sea'):
-            if ongoing_port is not None:
-                # finalize the ongoing port visit
-                first_day_hours = 24 - ongoing_port['Arrive'] 
-                last_day_hours = ongoing_port['Depart']
-                extra_days = (row['Date'] - ongoing_port['Date']).days - 1
-                hours = first_day_hours + last_day_hours + extra_days * 24
-                port_row = {'Date': ongoing_port['Date'], 'Day': ongoing_port['Day'], 'Port': ongoing_port['Port'], 
-                            'Country': ongoing_port['Country'], 'Time': ongoing_port['Arrive'], 'Hours': hours}
-                summarized_data.append(port_row)
-            ongoing_port = row.copy()
-
-        elif row['Port'] == 'Sea' and ongoing_port['Port'] == 'Sea':
-            ongoing_port['Depart'] = row['Depart']
-
-    if ongoing_port is not None:
-        first_day_hours = 24 - ongoing_port['Arrive'] 
-        last_day_hours = ongoing_port['Depart']
-        extra_days = (row['Date'] - ongoing_port['Date']).days
-        hours = first_day_hours + last_day_hours + extra_days * 24
-        row = {'Date': ongoing_port['Date'], 'Day': ongoing_port['Day'], 'Port': ongoing_port['Port'], 
-                    'Country': ongoing_port['Country'], 'Time': ongoing_port['Arrive'], 'Hours': hours}
-        summarized_data.append(row)
-
+        if ongoing_port is None:
+            ongoing_port = row['Port']
+            ongoing_country = row['Country']
+            last_depart = row['Depart']
+        elif ongoing_port == row['Port'] and ongoing_country == row['Country']:
+            extra_days += 24
+        else:
+            hours = (row['Arrive'] - last_depart) + extra_days
+            last_depart = row['Depart']
+            extra_days = 0
+            port_row = {'Date': row['Date'], 'Day': row['Day'], 'Port': ongoing_port, 
+                        'Country': ongoing_country, 'Time': last_depart, 'Hours': hours}
+            summarized_data.append(port_row)
+            ongoing_port = row['Port']
+            ongoing_country = row['Country']
+            
     summarized_df = pd.DataFrame(summarized_data)
     return summarized_df
 
@@ -71,8 +47,7 @@ def main(input_file):
     print(f"Saved the processed data to {output_file}")
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='
+    parser = argparse.ArgumentParser(description='Process a trip itinerary CSV file.')
     parser.add_argument('input_file', help='The CSV file to process.')
     args = parser.parse_args()
-
     main(args.input_file)
