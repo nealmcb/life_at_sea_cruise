@@ -14,13 +14,13 @@ def summarize_trip(df):
         loc = row['Port'], row['Country']
         if not pd.isnull(row['Arrive']):
             if left is not None:
-                duration = datetime.datetime.combine(row['Date'], datetime.time(hour=int(row['Arrive']))) - datetime.datetime.combine(left[0], datetime.time(hour=int(left[1])))
+                duration = datetime.datetime.combine(pd.to_datetime(row['Date']), datetime.time(hour=int(row['Arrive']))) - datetime.datetime.combine(pd.to_datetime(left[0]), datetime.time(hour=int(left[1])))
                 print(f'{left[0]},{row["Day"]},{last_loc[0]},{last_loc[1]},{left[1]},{duration.total_seconds() / 3600}')
             last_loc = loc
             left = row['Date'], row['Arrive']
         if not pd.isnull(row['Depart']):
             if left is not None:
-                duration = datetime.datetime.combine(row['Date'], datetime.time(hour=int(row['Depart']))) - datetime.datetime.combine(left[0], datetime.time(hour=int(left[1])))
+                duration = datetime.datetime.combine(pd.to_datetime(row['Date']), datetime.time(hour=int(row['Depart']))) - datetime.datetime.combine(pd.to_datetime(left[0]), datetime.time(hour=int(left[1])))
                 print(f'{left[0]},{row["Day"]},{last_loc[0]},{last_loc[1]},{left[1]},{duration.total_seconds() / 3600}')       
             last_loc = sea
             left = row['Date'], row['Depart']
