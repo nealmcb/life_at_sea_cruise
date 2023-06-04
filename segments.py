@@ -18,7 +18,7 @@ def summarize_trip(df):
                 ongoing_port['Depart'] = row['Depart']
             else:
                 # finalize the ongoing port visit
-                hours = ongoing_port['Depart'] - ongoing_port['Arrive']
+                hours = (ongoing_port['Depart'] - ongoing_port['Arrive']) + 24 * (row['Date'] - ongoing_port['Date']).days
                 port_row = {'Date': ongoing_port['Date'], 'Day': ongoing_port['Day'], 'Port': ongoing_port['Port'], 
                             'Country': ongoing_port['Country'], 'Time': ongoing_port['Arrive'], 'Hours': hours}
                 summarized_data.append(port_row)
@@ -27,7 +27,7 @@ def summarize_trip(df):
 
         if ongoing_port is not None and (row['Port'] == 'Sea' or index == len(df) - 1):
             # finalize the ongoing port visit
-            hours = ongoing_port['Depart'] - ongoing_port['Arrive']
+            hours = (ongoing_port['Depart'] - ongoing_port['Arrive']) + 24 * (row['Date'] - ongoing_port['Date']).days
             port_row = {'Date': ongoing_port['Date'], 'Day': ongoing_port['Day'], 'Port': ongoing_port['Port'], 
                         'Country': ongoing_port['Country'], 'Time': ongoing_port['Arrive'], 'Hours': hours}
             summarized_data.append(port_row)
@@ -36,7 +36,9 @@ def summarize_trip(df):
         if row['Port'] == 'Sea' and index < len(df) - 1:
             # calculate the hours spent at sea
             next_row = df.loc[index+1]
-            sea_hours = (next_row['Arrive'] if next_row['Port'] != 'Sea' else 24) - row['Depart']
+            sea_hours = 24 * (next_row['Date'] - row['Date']).days - row['Depart']
+            if next_row['Port'] != 'Sea':
+                sea_hours += next_row['Arrive']
             sea_row = {'Date': row['Date'], 'Day': row['Day'], 'Port': 'Sea', 
                        'Country': 'Sea', 'Time': row['Depart'], 'Hours': sea_hours}
             summarized_data.append(sea_row)
