@@ -3,26 +3,28 @@ import pandas as pd
 def summarize_trip(df):
     df['Date'] = pd.to_datetime(df['Date'])
 
-    sea_start = None
     summarized_data = []
 
     for index, row in df.iterrows():
         if row['Port'] != 'Sea':
-            if sea_start is not None:
-                # calculate the hours spent at sea
-                sea_hours = (row['Date'] - sea_start).total_seconds() / 3600 - row['Arrive']
-                sea_row = {'Date': sea_start, 'Time': df.loc[index-1, 'Depart'], 
-                           'Hours': sea_hours, 'Day': 'Sea', 'Port': 'Sea', 'Country': 'Sea'}
-                summarized_data.append(sea_row)
-                sea_start = None
-
             # calculate the hours spent at the port
             port_hours = row['Depart'] - row['Arrive']
-            port_row = {'Date': row['Date'], 'Time': row['Arrive'], 'Hours': port_hours, 
-                        'Day': row['Day'], 'Port': row['Port'], 'Country': row['Country']}
+            port_row = {'Date': row['Date'], 'Day': row['Day'], 'Port': row['Port'], 
+                        'Country': row['Country'], 'Time': row['Arrive'], 'Hours': port_hours}
             summarized_data.append(port_row)
-        elif sea_start is None:
-            sea_start = row['Date']
+
+            if index < len(df) - 1:
+                # calculate the hours spent at sea
+                next_port_arrival = df.loc[index+1, 'Arrive']
+                if df.loc[index+1, 'Date'] == row['Date']:
+                    sea_hours = 24 - row['Depart'] + next_port_arrival
+                else:
+                    sea_days = (df.loc[index+1, 'Date'] - row['Date']).days
+                    sea_hours = (sea_days - 1) * 24 + (24 - row['Depart']) + next_port_arrival
+
+                sea_row = {'Date': row['Date'], 'Day': row['Day'], 'Port': 'Sea', 
+                           'Country': 'Sea', 'Time': row['Depart'], 'Hours': sea_hours}
+                summarized_data.append(sea_row)
 
     summarized_df = pd.DataFrame(summarized_data)
     return summarized_df
