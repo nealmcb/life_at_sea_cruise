@@ -11,7 +11,7 @@ def summarize_trip(df):
     print('Date,Day,Port,Country,Time,Hours')  # Print the csv header
 
     for _, row in df.iterrows():
-        loc = row['Port'], row['Country']
+        loc = f'"{row["Port"]}"', f'"{row["Country"]}"'
         if not pd.isnull(row['Arrive']):
             if left is not None:
                 duration = datetime.datetime.combine(pd.to_datetime(row['Date']), datetime.time(hour=int(row['Arrive']))) - datetime.datetime.combine(pd.to_datetime(left[0]), datetime.time(hour=int(left[1])))
