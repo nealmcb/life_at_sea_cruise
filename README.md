@@ -8,4 +8,4 @@ The itinerary is of course subject to change as explained at
 
 See the [PDF](life_at_sea_analyze.pdf) for the analysis.
 
-See the [Notebook](life_at_sea_analyze.ipynb) if you want to help refine the code.
+See the [GitHub repository](https://github.com/nealmcb/life_at_sea_cruise) if you want to help refine the code.
